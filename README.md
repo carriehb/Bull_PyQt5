@@ -1,2 +1,5 @@
 # Bull_PyQt5
-My PyQt5 program for my grad school application.
+
+In the terminal at the project directory location:
+
+python3 health_calc.py
